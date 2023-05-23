@@ -1,0 +1,101 @@
+body
+{
+  background: #00042b;
+}
+nav
+{
+  background-color: #00042b59;
+}
+.navbar a
+{
+  color: #5dbefa;
+}
+ .s0
+{
+	background: linear-gradient(to top, #202020, #00042b);
+}
+.s1
+{
+  background: linear-gradient(to top, #00042b, #202020);
+	
+}
+.s2
+{
+	background: linear-gradient(to top, #202020, #00042b);
+}
+.s3
+{
+  background: linear-gradient(to top, #00042b, #202020);
+}
+.s4
+{
+	background-color: brown;
+}
+
+ 
+.card {
+  font-family: monospace;
+    color: #eeeeee;
+
+    outline: 6px solid #5e5e5e;
+    background: #053300;
+    background: linear-gradient(to top, #053300, #49fa52);
+    
+  }
+
+  .social-btn {
+    
+    font-family: 'Titillium Web', sans-serif;
+    color: #b9b9b9;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+    background: rgb(37, 37, 37);
+  }
+  
+  #gmail img {
+    fill: #1da1f2;
+  }
+
+  .card:hover {
+    background-color: #1b1b1b25;
+  }
+  
+
+table, th, td {
+	border: 1px solid rgb(163, 163, 163);
+  color: #b8b8b8;
+	
+ }
+
+tr:nth-child(even)
+{
+    background-color: rgb(63, 63, 63)
+
+}
+
+tr:nth-child(odd)
+{
+    background-color: #000000
+
+}
+
+th
+{
+    background-color: grey;
+}
+
+caption
+{
+    color: rgb(185, 185, 185);
+}
+
+  .accordion li {
+    border-left: 1px solid #888;
+    box-shadow: 0 0 25px 10px rgba(255, 255, 255, 0.5);
+  }
+  
+#inf
+{
+  color:#b9b9b9;
+    font-size: 20px;
+}
+
